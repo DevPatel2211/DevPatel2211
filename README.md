@@ -1,6 +1,8 @@
+<img aligh="center" alt="Cool Image" width="500" src="https://cdn.dribbble.com/users/1138853/screenshots/4834993/06_08_gif.gif">
+
+
 <h1 align="center">Hi 👋, I'm Dev Patel</h1>
 <h3 align="center">🔐 Cybersecurity Enthusiast | 📊 Data Analyst | 🌐 IoT Innovator | 🚀 Product Management Aspirant</h3>
-<img aligh="right" alt="Cool Image" width="300" src="https://cdn.dribbble.com/users/1138853/screenshots/4834993/06_08_gif.gif">
 
 - 🔭 I’m currently working on [SensoGuard - IoT Project](https://github.com/DevPatel2211/IoT_Workshop_Project-SensoGown)
 
