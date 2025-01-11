@@ -1,4 +1,6 @@
-<img aligh="center" alt="Cool Image" width="500" src="https://cdn.dribbble.com/users/1138853/screenshots/4834993/06_08_gif.gif">
+<div style="text-align: center;">
+  <img alt="Cool Image" width="500" src="https://cdn.dribbble.com/users/1138853/screenshots/4834993/06_08_gif.gif">
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Dev Patel</h1>
